@@ -1,0 +1,150 @@
+*{
+padding:0;
+margin:0;
+}
+body{background-color: #ddd;
+   
+}
+contenedor{width: 10%;
+margin: auto;
+     
+}
+
+main{
+    
+    width: 100%;
+    height: 11%;
+    background-color: #333;
+}
+
+
+section{
+background-color: aqua;
+float: left;
+    margin-bottom: 5px;
+    width: 80%;
+    height: 100%;
+     box-shadow: 10px 10px 10px rgba(100, 80, 60, 0.6);
+    background-color: rgba(0, 10, 60, 0.6);
+}
+
+aside{
+width: 19%;
+    height: 90%;
+float:left;
+    margin: 5px;
+    margin-bottom: 50x;
+    background-color: white;
+}
+
+header{
+width:100%;
+      }
+nav{
+     margin:20px auto;
+     width:90%;
+     max-width: 1000px;
+    }
+nav ul{
+    list-style:none;
+       }
+nav > ul{
+    display:table;
+    overflow:hidden;
+    width: 100%;
+    background:#000;
+    position: relative;
+    
+  
+        }
+nav > ul li{
+     display:table-cell;
+           }
+
+nav > ul li a{
+    color:#fff;
+    display: block;
+    line-height:20px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    text-decoration:none;
+    -webkit-transition:all.3s ease;
+    -moz-transition:all.3s ease;
+    -ms-transition:all.3s ease;
+    transition: all.3s ease;
+           
+             
+    font-family:helvetica, arial, sans-serif; }
+
+
+nav>ul >li>a spam{
+background: #174459;
+    display: block;
+    height: 100%;
+    width: 100%;
+    left:0;
+    position: absolute;
+    top:-55px;
+     -webkit-transition:all.3s ease;
+    -moz-transition:all.3s ease;
+    -ms-transition:all.3s ease;
+    transition: all.3s ease;+ 
+  
+}
+nav > ul >li > a spam . icon{
+    display: block;
+    line-height: 60px;
+                             }
+nav >ul> li> a:hover>spam{
+     top:0;
+background-color: rgba(255,255,255, .5);
+    
+}
+
+nav >ul> li> a:active>spam{
+     top:0;
+	background-color: rgba(255,255,255, .1);
+    
+}
+
+
+aside:nth-of-type(1){
+height: 50px;}
+
+img.imagen{width:95%;
+height: 70%;
+border-radius: 40px;
+margin: 6px;}
+p{
+padding:10px;
+margin-top: 10px;
+}
+h2{margin: 10px;
+margin-left: 55px;}
+img.M1{
+margin-left: 5%;
+    margin-top: 2%;
+}
+P{text-align:justify;    
+padding:  left:  6%;
+    margin-right: 6%;
+    
+}
+h1{color: white;
+text-align: center;
+padding-top: 2%;s}
+
+img.M2{width:31%;
+height: 33%;
+margin: 1%;
+align-items: baseline;
+}
+img.M1{width:97%;;
+height: 33%;
+margin: 1%;
+align-items: baseline;
+}
+
+
+
